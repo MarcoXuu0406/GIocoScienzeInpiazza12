@@ -1,0 +1,98 @@
+# =============== #
+# Unity generated #
+# =============== #
+
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+UserSettings/
+MemoryCaptures/
+
+# Crash Reports
+CrashReports/
+
+# ========== #
+# Artifacts  #
+# ========== #
+
+*.pidb
+*.suo
+*.user
+*.userprefs
+*.unitypackage
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.db
+
+# Visual Studio cache
+.vs/
+
+# Rider cache
+.idea/
+*.sln.iml
+
+# Auto-generated JetBrains Rider plugin
+Assets/Plugins/Editor/JetBrains*
+
+# =============== #
+# Unity settings  #
+# =============== #
+
+# Avoid ignoring .meta files
+# (Unity needs them for references)
+*.meta
+
+# But ignore meta of cached folders
+Library.meta
+Temp.meta
+Obj.meta
+
+# =============== #
+# Build files     #
+# =============== #
+
+*.apk
+*.aab
+*.zip
+*.exe
+*.app
+*.xcodeproj
+*.xcworkspace
+*.xcassets
+DerivedData/
+
+# =============== #
+# OS generated    #
+# =============== #
+
+.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# =============== #
+# TextMesh Pro     #
+# =============== #
+
+Assets/TextMesh Pro/*
+!Assets/TextMesh Pro/Resources/*
+
+# =============== #
+# Shader caches    #
+# =============== #
+
+*.shaderCache
+*.computeCache
+
+# =============== #
+# Addressables     #
+# =============== #
+
+Library/com.unity.addressables/
